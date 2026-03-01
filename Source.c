@@ -315,6 +315,7 @@ int main() {
         printf("===============================================\n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
+        printf("");
         
         // Create temporary copy of blocks for each algorithm
         int temp[MAX];
